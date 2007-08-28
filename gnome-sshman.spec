@@ -48,7 +48,6 @@ Icon=terminals_section
 Terminal=false
 Type=Application
 Categories=GNOME;GTK;X-MandrivaLinux-System-Terminals;TerminalEmulator;
-Encoding=UTF-8
 EOF
 
 %clean
