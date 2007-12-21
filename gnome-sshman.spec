@@ -11,6 +11,7 @@ Source:		http://savannah.nongnu.org/download/gnome-sshman/%{name}-%{version}.tar
 URL:		http://www.oronetes.net/webs/gnome-sshman/
 License:	GPL
 Group:		Graphical desktop/GNOME
+BuildRoot:	%{_tmppath}/%{name}-buildroot
 Requires:	pygtk2.0-libglade gnome-terminal pygtk2.0 gnome-python python-vte python-pexpect pycrypto
 BuildArch:	noarch
 
