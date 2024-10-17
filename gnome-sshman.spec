@@ -8,7 +8,7 @@ Version: 	%{version}
 Release: 	%{release}
 
 Source:		http://savannah.nongnu.org/download/gnome-sshman/%{name}-%{version}.tar.bz2
-URL:		http://www.oronetes.net/webs/gnome-sshman/
+URL:		https://www.oronetes.net/webs/gnome-sshman/
 License:	GPL
 Group:		Graphical desktop/GNOME
 BuildRoot:	%{_tmppath}/%{name}-buildroot
