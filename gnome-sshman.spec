@@ -1,6 +1,6 @@
 %define name	gnome-sshman
 %define version 0.6
-%define release %mkrel 5
+%define release 6
 
 Name: 	 	%{name}
 Summary: 	SSH connection manager for GNOME and Nautilus
